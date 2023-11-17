@@ -1,4 +1,3 @@
-# test
 #This file was created by: Alex Aguerria
 
 #GameDesign: 
